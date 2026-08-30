@@ -311,7 +311,7 @@ El proyecto puede recibir nuevas funcionalidades y mejoras relacionadas con la a
 
 # 👨‍💻 Autor
 
-Proyecto desarrollado con fines académicos.
+Branco Merino
 
 ---
 

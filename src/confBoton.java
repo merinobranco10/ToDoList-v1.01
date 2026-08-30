@@ -5,6 +5,6 @@ public class confBoton extends JButton {
     public confBoton(String text) {
         super(text);
         setBackground(Color.GRAY);
-        setForeground(Color.WHITE);
+        setForeground(Color.GRAY);
     }
 }
